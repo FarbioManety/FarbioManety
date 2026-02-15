@@ -1,6 +1,10 @@
-# 👨‍💻 FarbioManety
-### 💻 Fullstack Developer from Siberia ❄️  
-**Blue Team mindset • Web • Cloud • Security • Performance**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=FarbioManety&fontSize=50&fontColor=00f7ff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer+from+Siberia+❄️;Blue+Team+Mindset;Web+%7C+Cloud+%7C+Security" />
+</p>
 
 ---
 
